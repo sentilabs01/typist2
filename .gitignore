@@ -1,0 +1,20 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore log files
+*.log
+
+# Ignore node_modules for Node.js projects
+node_modules/
+
+# Ignore all .DS_Store files (macOS)
+.DS_Store
+
+# Ignore build artifacts
+/build/
+/dist/
